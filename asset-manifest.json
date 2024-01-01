@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.6e0ccb97.css",
+    "main.js": "/react-website/static/js/main.b70733d1.js",
+    "static/media/marketing.png": "/react-website/static/media/marketing.8106895664cb7fe93f34.png",
+    "static/media/software.png": "/react-website/static/media/software.a25e0734dd1ec93300f6.png",
+    "static/media/web1.png": "/react-website/static/media/web1.01478865424a0e43c733.png",
+    "static/media/web.png": "/react-website/static/media/web.466456ae25c30394b176.png",
+    "static/media/about.png": "/react-website/static/media/about.6bff9867ffb245657f5c.png",
+    "static/media/digital.png": "/react-website/static/media/digital.a21b16d7f3dfcc7c54f0.png",
+    "static/media/android.png": "/react-website/static/media/android.a0f653187cf404bab88a.png",
+    "static/media/app.png": "/react-website/static/media/app.64170f536b9e71b28434.png",
+    "index.html": "/react-website/index.html",
+    "main.6e0ccb97.css.map": "/react-website/static/css/main.6e0ccb97.css.map",
+    "main.b70733d1.js.map": "/react-website/static/js/main.b70733d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0ccb97.css",
+    "static/js/main.b70733d1.js"
+  ]
+}
